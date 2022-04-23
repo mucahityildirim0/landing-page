@@ -1,0 +1,33 @@
+/* Text */
+
+.text-center {
+  text-align: center;
+}
+
+.heading-small {
+  font-size: 1.25rem;
+}
+.heading-medium {
+  font-size: 1.75rem;
+}
+
+.heading-large {
+  font-size: 2rem;
+}
+
+/* Colors */
+
+.bg-dark-blue {
+  background: #062e51;
+}
+
+.bg-light-blue {
+  background: #336ea2;
+}
+
+/*  Container */
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
