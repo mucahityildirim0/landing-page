@@ -3,5 +3,13 @@
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   overflow: hidden;
-  height: 90px;
+  height: 80px;
+}
+
+#training .items {
+  flex-direction: column;
+}
+
+#training .items .item {
+  width: 100%;
 }
